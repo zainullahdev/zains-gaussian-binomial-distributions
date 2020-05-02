@@ -8,13 +8,18 @@ of both the models
 
 # Files
 
-├── distributions
 │   ├── Binomialdistribution.py
+
 │   ├── Gaussiandistribution.py
+
 │   ├── Generaldistribution.py
+
 │   ├── license.txt
+
 │   ├── setup.cfg
+
 │   └── README.md
+
 ├── setup.py
 
 # Installation
